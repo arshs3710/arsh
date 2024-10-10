@@ -18,4 +18,6 @@
   * ### Emojis
  
   :kissing: :anggel: :angry: :wink: :relieved:
+
+  [CLI commands] (Cli.md)
   
