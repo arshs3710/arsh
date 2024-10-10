@@ -19,5 +19,5 @@
  
   :kissing: :anggel: :angry: :wink: :relieved:
 
-  [CLI commands] (Cli.md)
+  [CLI commands](Cli.md)
   
